@@ -1,0 +1,3471 @@
+fileFormatVersion: 2
+guid: bec7b28dbb03b6c4bad08d0aeaf22c23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -83245644916345114
+    second: tiny_village_tilemap_0
+  - first:
+      213: -7271498950024016330
+    second: tiny_village_tilemap_1
+  - first:
+      213: -638288822588120911
+    second: tiny_village_tilemap_2
+  - first:
+      213: 3285910876597304027
+    second: tiny_village_tilemap_3
+  - first:
+      213: -3850104371986385325
+    second: tiny_village_tilemap_4
+  - first:
+      213: 3520281763917235544
+    second: tiny_village_tilemap_5
+  - first:
+      213: 2469333977185185980
+    second: tiny_village_tilemap_6
+  - first:
+      213: 4929383876936042425
+    second: tiny_village_tilemap_7
+  - first:
+      213: 2862636582630259914
+    second: tiny_village_tilemap_8
+  - first:
+      213: 7382587887268458027
+    second: tiny_village_tilemap_9
+  - first:
+      213: 971038259756542925
+    second: tiny_village_tilemap_10
+  - first:
+      213: 2397774772474308881
+    second: tiny_village_tilemap_11
+  - first:
+      213: -993805546351430820
+    second: tiny_village_tilemap_12
+  - first:
+      213: -6162383780100432652
+    second: tiny_village_tilemap_13
+  - first:
+      213: 2298135019142766222
+    second: tiny_village_tilemap_14
+  - first:
+      213: 4129453236994453075
+    second: tiny_village_tilemap_15
+  - first:
+      213: 6120217093746393031
+    second: tiny_village_tilemap_16
+  - first:
+      213: 2326866188098388931
+    second: tiny_village_tilemap_17
+  - first:
+      213: 7489185392335351952
+    second: tiny_village_tilemap_18
+  - first:
+      213: -7812139007888768993
+    second: tiny_village_tilemap_19
+  - first:
+      213: -688167227869224110
+    second: tiny_village_tilemap_20
+  - first:
+      213: -109702026408849357
+    second: tiny_village_tilemap_21
+  - first:
+      213: 1135188033091294633
+    second: tiny_village_tilemap_22
+  - first:
+      213: -928211748303812258
+    second: tiny_village_tilemap_23
+  - first:
+      213: -9147147609748997250
+    second: tiny_village_tilemap_24
+  - first:
+      213: 2791383944326703298
+    second: tiny_village_tilemap_25
+  - first:
+      213: 1817762236139852027
+    second: tiny_village_tilemap_26
+  - first:
+      213: 3848963057269689525
+    second: tiny_village_tilemap_27
+  - first:
+      213: 4024902666823745949
+    second: tiny_village_tilemap_28
+  - first:
+      213: -6330834606836294858
+    second: tiny_village_tilemap_29
+  - first:
+      213: 7591599330939601110
+    second: tiny_village_tilemap_30
+  - first:
+      213: -5973089303845039995
+    second: tiny_village_tilemap_31
+  - first:
+      213: -1464327632650492994
+    second: tiny_village_tilemap_32
+  - first:
+      213: -2751045198881688065
+    second: tiny_village_tilemap_33
+  - first:
+      213: -7550412000032656726
+    second: tiny_village_tilemap_34
+  - first:
+      213: 8731619805370976302
+    second: tiny_village_tilemap_35
+  - first:
+      213: -2670070220883337167
+    second: tiny_village_tilemap_36
+  - first:
+      213: 6789693275098052006
+    second: tiny_village_tilemap_37
+  - first:
+      213: 5057326988138440192
+    second: tiny_village_tilemap_38
+  - first:
+      213: -4047429327162201516
+    second: tiny_village_tilemap_39
+  - first:
+      213: -4948949345885517373
+    second: tiny_village_tilemap_40
+  - first:
+      213: 1191847126964503652
+    second: tiny_village_tilemap_41
+  - first:
+      213: 166168060498556713
+    second: tiny_village_tilemap_42
+  - first:
+      213: 3341212528148319598
+    second: tiny_village_tilemap_43
+  - first:
+      213: -3102220903257865452
+    second: tiny_village_tilemap_44
+  - first:
+      213: 8134821962333976030
+    second: tiny_village_tilemap_45
+  - first:
+      213: 5642207446626028400
+    second: tiny_village_tilemap_46
+  - first:
+      213: 6066672229552929239
+    second: tiny_village_tilemap_47
+  - first:
+      213: 4043297920343086311
+    second: tiny_village_tilemap_48
+  - first:
+      213: 806238851690625611
+    second: tiny_village_tilemap_49
+  - first:
+      213: -6227794057885767453
+    second: tiny_village_tilemap_50
+  - first:
+      213: 1792005624072538482
+    second: tiny_village_tilemap_51
+  - first:
+      213: 2514208162883984672
+    second: tiny_village_tilemap_52
+  - first:
+      213: 8170973761378808725
+    second: tiny_village_tilemap_53
+  - first:
+      213: 6861023826465735467
+    second: tiny_village_tilemap_54
+  - first:
+      213: -2238546499126244026
+    second: tiny_village_tilemap_55
+  - first:
+      213: -4383288219431067516
+    second: tiny_village_tilemap_56
+  - first:
+      213: -8875414777209141003
+    second: tiny_village_tilemap_57
+  - first:
+      213: -6913726485366965445
+    second: tiny_village_tilemap_58
+  - first:
+      213: -4667479503736725621
+    second: tiny_village_tilemap_59
+  - first:
+      213: 7814487338891215171
+    second: tiny_village_tilemap_60
+  - first:
+      213: 1314625154998445631
+    second: tiny_village_tilemap_61
+  - first:
+      213: -5919103600301641347
+    second: tiny_village_tilemap_62
+  - first:
+      213: 5127135623649555451
+    second: tiny_village_tilemap_63
+  - first:
+      213: -322529960327830337
+    second: tiny_village_tilemap_64
+  - first:
+      213: 2166958752834137990
+    second: tiny_village_tilemap_65
+  - first:
+      213: -2840283362632536484
+    second: tiny_village_tilemap_66
+  - first:
+      213: -5407070411306287164
+    second: tiny_village_tilemap_67
+  - first:
+      213: 4555079344552217408
+    second: tiny_village_tilemap_68
+  - first:
+      213: -5941388471532966868
+    second: tiny_village_tilemap_69
+  - first:
+      213: -6328173277068690840
+    second: tiny_village_tilemap_70
+  - first:
+      213: 2911485600945493442
+    second: tiny_village_tilemap_71
+  - first:
+      213: 7111139746326256398
+    second: tiny_village_tilemap_72
+  - first:
+      213: 2935029896351405745
+    second: tiny_village_tilemap_73
+  - first:
+      213: 2920909964541643647
+    second: tiny_village_tilemap_74
+  - first:
+      213: 1455589050756638966
+    second: tiny_village_tilemap_75
+  - first:
+      213: -7282653846412437384
+    second: tiny_village_tilemap_76
+  - first:
+      213: 1889935745283792362
+    second: tiny_village_tilemap_77
+  - first:
+      213: 7764933294187005662
+    second: tiny_village_tilemap_78
+  - first:
+      213: -8943376572550132950
+    second: tiny_village_tilemap_79
+  - first:
+      213: -2944896492153244052
+    second: tiny_village_tilemap_80
+  - first:
+      213: -5515102714343878498
+    second: tiny_village_tilemap_81
+  - first:
+      213: -8382037718529003309
+    second: tiny_village_tilemap_82
+  - first:
+      213: -210116619503960482
+    second: tiny_village_tilemap_83
+  - first:
+      213: 1793520690666491152
+    second: tiny_village_tilemap_84
+  - first:
+      213: -8870644450702699383
+    second: tiny_village_tilemap_85
+  - first:
+      213: -4227502748995936409
+    second: tiny_village_tilemap_86
+  - first:
+      213: 4506695285932198286
+    second: tiny_village_tilemap_87
+  - first:
+      213: -862207625119933015
+    second: tiny_village_tilemap_88
+  - first:
+      213: -2162532620913089925
+    second: tiny_village_tilemap_89
+  - first:
+      213: 4192490010378776561
+    second: tiny_village_tilemap_90
+  - first:
+      213: -348609567133981147
+    second: tiny_village_tilemap_91
+  - first:
+      213: 761526335629809140
+    second: tiny_village_tilemap_92
+  - first:
+      213: -6717382852474724325
+    second: tiny_village_tilemap_93
+  - first:
+      213: 3042852444017012619
+    second: tiny_village_tilemap_94
+  - first:
+      213: 802441725695490405
+    second: tiny_village_tilemap_95
+  - first:
+      213: -1966910268280437553
+    second: tiny_village_tilemap_96
+  - first:
+      213: 6877987597128380606
+    second: tiny_village_tilemap_97
+  - first:
+      213: -7210089676239076105
+    second: tiny_village_tilemap_98
+  - first:
+      213: 1646248062459045762
+    second: tiny_village_tilemap_99
+  - first:
+      213: 4558703129509300187
+    second: tiny_village_tilemap_100
+  - first:
+      213: -8241482714979831618
+    second: tiny_village_tilemap_101
+  - first:
+      213: -8913354635971814348
+    second: tiny_village_tilemap_102
+  - first:
+      213: 4821216792733645858
+    second: tiny_village_tilemap_103
+  - first:
+      213: 8566627312000963521
+    second: tiny_village_tilemap_104
+  - first:
+      213: 9141865666322366429
+    second: tiny_village_tilemap_105
+  - first:
+      213: 3367900472996135074
+    second: tiny_village_tilemap_106
+  - first:
+      213: -7192273776948978683
+    second: tiny_village_tilemap_107
+  - first:
+      213: 4165517150819460140
+    second: tiny_village_tilemap_108
+  - first:
+      213: 5423736991580634592
+    second: tiny_village_tilemap_109
+  - first:
+      213: -1171753390929834119
+    second: tiny_village_tilemap_110
+  - first:
+      213: -8694985358441430543
+    second: tiny_village_tilemap_111
+  - first:
+      213: -5727962908068742308
+    second: tiny_village_tilemap_112
+  - first:
+      213: -2823218108550038627
+    second: tiny_village_tilemap_113
+  - first:
+      213: 97134073819614182
+    second: tiny_village_tilemap_114
+  - first:
+      213: -7177087214685679667
+    second: tiny_village_tilemap_115
+  - first:
+      213: 6700798512605436122
+    second: tiny_village_tilemap_116
+  - first:
+      213: 4302992979925583239
+    second: tiny_village_tilemap_117
+  - first:
+      213: 8491963834074244347
+    second: tiny_village_tilemap_118
+  - first:
+      213: 5722899817180098637
+    second: tiny_village_tilemap_119
+  - first:
+      213: -1240918063217256034
+    second: tiny_village_tilemap_120
+  - first:
+      213: 8821802651361153711
+    second: tiny_village_tilemap_121
+  - first:
+      213: -47081115301727489
+    second: tiny_village_tilemap_122
+  - first:
+      213: -163753194179638493
+    second: tiny_village_tilemap_123
+  - first:
+      213: -5389816939982843511
+    second: tiny_village_tilemap_124
+  - first:
+      213: 3347823694694992273
+    second: tiny_village_tilemap_125
+  - first:
+      213: 7328862977907160092
+    second: tiny_village_tilemap_126
+  - first:
+      213: -5448744872678091483
+    second: tiny_village_tilemap_127
+  - first:
+      213: 8071840843982626115
+    second: tiny_village_tilemap_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiny_village_tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 468
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6b9a9e68048def0800000000000000
+      internalID: -83245644916345114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 468
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e41332b32761b90800000000000000
+      internalID: -7271498950024016330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 468
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0688992b75427f0800000000000000
+      internalID: -638288822588120911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 468
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdabc236886e99d20800000000000000
+      internalID: 3285910876597304027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 481
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356b29fe87ea19ac0800000000000000
+      internalID: -3850104371986385325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 481
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855829fec9d8ad030800000000000000
+      internalID: 3520281763917235544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 465
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0fced4b26d44220800000000000000
+      internalID: 2469333977185185980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 465
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b78f42e480b86440800000000000000
+      internalID: 4929383876936042425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 472
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accf6b41ec02ab720800000000000000
+      internalID: 2862636582630259914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 472
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eecbf9198347660800000000000000
+      internalID: 7382587887268458027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 481
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb2a180722d97d00800000000000000
+      internalID: 971038259756542925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 479
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11969bc937b964120800000000000000
+      internalID: 2397774772474308881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 479
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53f8e9fe1b4532f0800000000000000
+      internalID: -993805546351430820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 479
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc1c790a90da7aa0800000000000000
+      internalID: -6162383780100432652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ed3e5bf9d94ef10800000000000000
+      internalID: 2298135019142766222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 465
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e24ab17d3ce4930800000000000000
+      internalID: 4129453236994453075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 465
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cff60d35016fe450800000000000000
+      internalID: 6120217093746393031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 449
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3c8754870ba4020800000000000000
+      internalID: 2326866188098388931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 447
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09071375f6eeee760800000000000000
+      internalID: 7489185392335351952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 447
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1041da76f4b59390800000000000000
+      internalID: -7812139007888768993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 447
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2532ac46d832376f0800000000000000
+      internalID: -688167227869224110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 437
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33092c496924a7ef0800000000000000
+      internalID: -109702026408849357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 437
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a55ea9608ff0cf00800000000000000
+      internalID: 1135188033091294633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 437
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59c10235545e13f0800000000000000
+      internalID: -928211748303812258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 437
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bf8dc66bdce0180800000000000000
+      internalID: -9147147609748997250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8625178ecfcb620800000000000000
+      internalID: 2791383944326703298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf05c337f1df93910800000000000000
+      internalID: 1817762236139852027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 431
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc492602834a6530800000000000000
+      internalID: 3848963057269689525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d914d8f86a35bd730800000000000000
+      internalID: 4024902666823745949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 436
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bd5cf977b5428a0800000000000000
+      internalID: -6330834606836294858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 431
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d08fb59e57ca5960800000000000000
+      internalID: 7591599330939601110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 431
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58091a8cce25b1da0800000000000000
+      internalID: -5973089303845039995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 432
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb32415c6c9adabe0800000000000000
+      internalID: -1464327632650492994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 431
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5fc9f97f252d9d0800000000000000
+      internalID: -2751045198881688065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 431
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2f43e2a4c873790800000000000000
+      internalID: -7550412000032656726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 417
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2807ec63f1fc2970800000000000000
+      internalID: 8731619805370976302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 415
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13066eed74102fad0800000000000000
+      internalID: -2670070220883337167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 415
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5f3147f06d93e50800000000000000
+      internalID: 6789693275098052006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 434
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006ecf0d91c3f2640800000000000000
+      internalID: 5057326988138440192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 387
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aaffc9874a4d7c0800000000000000
+      internalID: -4047429327162201516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 387
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c987136accc15bb0800000000000000
+      internalID: -4948949345885517373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 415
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4640a45b5aa4a8010800000000000000
+      internalID: 1191847126964503652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 415
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927380b78f85e4200800000000000000
+      internalID: 166168060498556713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 416
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d8d53871f5e5e20800000000000000
+      internalID: 3341212528148319598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 418
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41306865682b2f4d0800000000000000
+      internalID: -3102220903257865452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 420
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed576ff7971b4e070800000000000000
+      internalID: 8134821962333976030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b453d67c52d4e40800000000000000
+      internalID: 5642207446626028400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 402
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9ba3b0046213450800000000000000
+      internalID: 6066672229552929239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 402
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e41027490eac1830800000000000000
+      internalID: 4043297920343086311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 402
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a7327c6f5503b00800000000000000
+      internalID: 806238851690625611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 402
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e82e65fc4e6299a0800000000000000
+      internalID: -6227794057885767453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 385
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2798852ee9b7ed810800000000000000
+      internalID: 1792005624072538482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 403
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d5618d00344e220800000000000000
+      internalID: 2514208162883984672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 410
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59375042851256170800000000000000
+      internalID: 8170973761378808725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 399
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b234bf3a1d0473f50800000000000000
+      internalID: 6861023826465735467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 410
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dc262c1d51fe0e0800000000000000
+      internalID: -2238546499126244026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 399
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48028ac869e6b23c0800000000000000
+      internalID: -4383288219431067516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 410
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8423ab84134d480800000000000000
+      internalID: -8875414777209141003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 387
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bfd7d54628d00a0800000000000000
+      internalID: -6913726485366965445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 383
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f1b57ee18c93fb0800000000000000
+      internalID: -4667479503736725621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 383
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3410660f4d2a27c60800000000000000
+      internalID: 7814487338891215171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36a9700d9c7e3210800000000000000
+      internalID: 1314625154998445631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 399
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71f843e2ae1bdda0800000000000000
+      internalID: -5919103600301641347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 385
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3f1ea5fae372740800000000000000
+      internalID: 5127135623649555451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 385
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb42d3db5b4268bf0800000000000000
+      internalID: -322529960327830337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 387
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f2a913185921e10800000000000000
+      internalID: 2166958752834137990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 352
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ee5d484594598d0800000000000000
+      internalID: -2840283362632536484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 352
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf309adb1a36f4b0800000000000000
+      internalID: -5407070411306287164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 353
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b01cfa784e63f30800000000000000
+      internalID: 4555079344552217408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 339
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c2da9f9a2fb8da0800000000000000
+      internalID: -5941388471532966868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 339
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a733fbeefcd28a0800000000000000
+      internalID: -6328173277068690840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 354
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c555057abca76820800000000000000
+      internalID: 2911485600945493442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 355
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b10ff3ce7dfa260800000000000000
+      internalID: 7111139746326256398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 353
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b65d29e3225bb820800000000000000
+      internalID: 2935029896351405745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 351
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b47691328298820800000000000000
+      internalID: 2920909964541643647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 351
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f82c45978a433410800000000000000
+      internalID: 1455589050756638966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878547e69e0deea90800000000000000
+      internalID: -7282653846412437384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed14f90c866a3a10800000000000000
+      internalID: 1889935745283792362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6ce90d0b592cb60800000000000000
+      internalID: 7764933294187005662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 319
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b499c246eb2e380800000000000000
+      internalID: -8943376572550132950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 326
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6679ec3e30a127d0800000000000000
+      internalID: -2944896492153244052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 291
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e909db33d4b6673b0800000000000000
+      internalID: -5515102714343878498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 291
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0372dda150dab80800000000000000
+      internalID: -8382037718529003309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 130
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e7f0d3c04851df0800000000000000
+      internalID: -210116619503960482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 303
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d4d70d09dd3e810800000000000000
+      internalID: 1793520690666491152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 304
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984531beed325e480800000000000000
+      internalID: -8870644450702699383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 307
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f1c17e5a4e455c0800000000000000
+      internalID: -4227502748995936409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 305
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e898aec2c7ffa8e30800000000000000
+      internalID: 4506695285932198286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 305
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9add71eabb2d804f0800000000000000
+      internalID: -862207625119933015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 304
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72e743f9042df1e0800000000000000
+      internalID: -2162532620913089925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_90
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 303
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff2001a377be2a30800000000000000
+      internalID: 4192490010378776561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_91
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 287
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5262da9127d792bf0800000000000000
+      internalID: -348609567133981147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_92
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 289
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5d152ea2c719a00800000000000000
+      internalID: 761526335629809140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_93
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10a1f9c2ef07c2a0800000000000000
+      internalID: -6717382852474724325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_94
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 295
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f20951d226a3a20800000000000000
+      internalID: 3042852444017012619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_95
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 288
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569f70d7f78d22b00800000000000000
+      internalID: 802441725695490405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_96
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 292
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4831a388124b4e0800000000000000
+      internalID: -1966910268280437553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_97
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 291
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb031684745837f50800000000000000
+      internalID: 6877987597128380606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_98
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 289
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f40f01e3ad90fb90800000000000000
+      internalID: -7210089676239076105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287eb0ff3e5a8d610800000000000000
+      internalID: 1646248062459045762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd70dded754c34f30800000000000000
+      internalID: 4558703129509300187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_101
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 257
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0fa1fc22f50ad80800000000000000
+      internalID: -8241482714979831618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_102
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 289
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c91ddfe276d4480800000000000000
+      internalID: -8913354635971814348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_103
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 243
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c790c012768e240800000000000000
+      internalID: 4821216792733645858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 243
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c31afef626c2e670800000000000000
+      internalID: 8566627312000963521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_105
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 276
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddffb79436e6ede70800000000000000
+      internalID: 9141865666322366429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_106
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 273
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a00ec3e2af2dbe20800000000000000
+      internalID: 3367900472996135074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_107
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 273
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c599d2b19ef2c90800000000000000
+      internalID: -7192273776948978683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_108
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 259
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24246067c3eec930800000000000000
+      internalID: 4165517150819460140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_109
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 260
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed3f42ce0cf44b40800000000000000
+      internalID: 5423736991580634592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_110
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 259
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f8449cf781dbfe0800000000000000
+      internalID: -1171753390929834119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_111
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 259
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f140ee62e4355780800000000000000
+      internalID: -8694985358441430543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 210
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bf2f945103280b0800000000000000
+      internalID: -5727962908068742308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_113
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 162
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bbc6c961ae1d8d0800000000000000
+      internalID: -2823218108550038627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_114
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 210
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebca9dece6195100800000000000000
+      internalID: 97134073819614182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 162
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf89ae343dd56c90800000000000000
+      internalID: -7177087214685679667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_116
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 169
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8105faeb40efc50800000000000000
+      internalID: 6700798512605436122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_117
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 178
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785c677215d47bb30800000000000000
+      internalID: 4302992979925583239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_118
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 105
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4a57f5d1489d570800000000000000
+      internalID: 8491963834074244347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_119
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40fa200013db6f40800000000000000
+      internalID: 5722899817180098637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_120
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 105
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99d19e989f57cee0800000000000000
+      internalID: -1240918063217256034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_121
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 105
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa21bf085c65d6a70800000000000000
+      internalID: 8821802651361153711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_122
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 41
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2bfce99fbb85ff0800000000000000
+      internalID: -47081115301727489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_123
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 32
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b4616665b3abdf0800000000000000
+      internalID: -163753194179638493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_124
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98190ffac068335b0800000000000000
+      internalID: -5389816939982843511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_125
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 22
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1994eeca9ebd57e20800000000000000
+      internalID: 3347823694694992273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_126
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14faa56c0a55b560800000000000000
+      internalID: 7328862977907160092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_127
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5259a40386b2264b0800000000000000
+      internalID: -5448744872678091483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_village_tilemap_128
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dd21d2b70f40070800000000000000
+      internalID: 8071840843982626115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f14abbef0e445d042b2420a676e32a1c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tiny_village_tilemap_0: -83245644916345114
+      tiny_village_tilemap_1: -7271498950024016330
+      tiny_village_tilemap_10: 971038259756542925
+      tiny_village_tilemap_100: 4558703129509300187
+      tiny_village_tilemap_101: -8241482714979831618
+      tiny_village_tilemap_102: -8913354635971814348
+      tiny_village_tilemap_103: 4821216792733645858
+      tiny_village_tilemap_104: 8566627312000963521
+      tiny_village_tilemap_105: 9141865666322366429
+      tiny_village_tilemap_106: 3367900472996135074
+      tiny_village_tilemap_107: -7192273776948978683
+      tiny_village_tilemap_108: 4165517150819460140
+      tiny_village_tilemap_109: 5423736991580634592
+      tiny_village_tilemap_11: 2397774772474308881
+      tiny_village_tilemap_110: -1171753390929834119
+      tiny_village_tilemap_111: -8694985358441430543
+      tiny_village_tilemap_112: -5727962908068742308
+      tiny_village_tilemap_113: -2823218108550038627
+      tiny_village_tilemap_114: 97134073819614182
+      tiny_village_tilemap_115: -7177087214685679667
+      tiny_village_tilemap_116: 6700798512605436122
+      tiny_village_tilemap_117: 4302992979925583239
+      tiny_village_tilemap_118: 8491963834074244347
+      tiny_village_tilemap_119: 5722899817180098637
+      tiny_village_tilemap_12: -993805546351430820
+      tiny_village_tilemap_120: -1240918063217256034
+      tiny_village_tilemap_121: 8821802651361153711
+      tiny_village_tilemap_122: -47081115301727489
+      tiny_village_tilemap_123: -163753194179638493
+      tiny_village_tilemap_124: -5389816939982843511
+      tiny_village_tilemap_125: 3347823694694992273
+      tiny_village_tilemap_126: 7328862977907160092
+      tiny_village_tilemap_127: -5448744872678091483
+      tiny_village_tilemap_128: 8071840843982626115
+      tiny_village_tilemap_13: -6162383780100432652
+      tiny_village_tilemap_14: 2298135019142766222
+      tiny_village_tilemap_15: 4129453236994453075
+      tiny_village_tilemap_16: 6120217093746393031
+      tiny_village_tilemap_17: 2326866188098388931
+      tiny_village_tilemap_18: 7489185392335351952
+      tiny_village_tilemap_19: -7812139007888768993
+      tiny_village_tilemap_2: -638288822588120911
+      tiny_village_tilemap_20: -688167227869224110
+      tiny_village_tilemap_21: -109702026408849357
+      tiny_village_tilemap_22: 1135188033091294633
+      tiny_village_tilemap_23: -928211748303812258
+      tiny_village_tilemap_24: -9147147609748997250
+      tiny_village_tilemap_25: 2791383944326703298
+      tiny_village_tilemap_26: 1817762236139852027
+      tiny_village_tilemap_27: 3848963057269689525
+      tiny_village_tilemap_28: 4024902666823745949
+      tiny_village_tilemap_29: -6330834606836294858
+      tiny_village_tilemap_3: 3285910876597304027
+      tiny_village_tilemap_30: 7591599330939601110
+      tiny_village_tilemap_31: -5973089303845039995
+      tiny_village_tilemap_32: -1464327632650492994
+      tiny_village_tilemap_33: -2751045198881688065
+      tiny_village_tilemap_34: -7550412000032656726
+      tiny_village_tilemap_35: 8731619805370976302
+      tiny_village_tilemap_36: -2670070220883337167
+      tiny_village_tilemap_37: 6789693275098052006
+      tiny_village_tilemap_38: 5057326988138440192
+      tiny_village_tilemap_39: -4047429327162201516
+      tiny_village_tilemap_4: -3850104371986385325
+      tiny_village_tilemap_40: -4948949345885517373
+      tiny_village_tilemap_41: 1191847126964503652
+      tiny_village_tilemap_42: 166168060498556713
+      tiny_village_tilemap_43: 3341212528148319598
+      tiny_village_tilemap_44: -3102220903257865452
+      tiny_village_tilemap_45: 8134821962333976030
+      tiny_village_tilemap_46: 5642207446626028400
+      tiny_village_tilemap_47: 6066672229552929239
+      tiny_village_tilemap_48: 4043297920343086311
+      tiny_village_tilemap_49: 806238851690625611
+      tiny_village_tilemap_5: 3520281763917235544
+      tiny_village_tilemap_50: -6227794057885767453
+      tiny_village_tilemap_51: 1792005624072538482
+      tiny_village_tilemap_52: 2514208162883984672
+      tiny_village_tilemap_53: 8170973761378808725
+      tiny_village_tilemap_54: 6861023826465735467
+      tiny_village_tilemap_55: -2238546499126244026
+      tiny_village_tilemap_56: -4383288219431067516
+      tiny_village_tilemap_57: -8875414777209141003
+      tiny_village_tilemap_58: -6913726485366965445
+      tiny_village_tilemap_59: -4667479503736725621
+      tiny_village_tilemap_6: 2469333977185185980
+      tiny_village_tilemap_60: 7814487338891215171
+      tiny_village_tilemap_61: 1314625154998445631
+      tiny_village_tilemap_62: -5919103600301641347
+      tiny_village_tilemap_63: 5127135623649555451
+      tiny_village_tilemap_64: -322529960327830337
+      tiny_village_tilemap_65: 2166958752834137990
+      tiny_village_tilemap_66: -2840283362632536484
+      tiny_village_tilemap_67: -5407070411306287164
+      tiny_village_tilemap_68: 4555079344552217408
+      tiny_village_tilemap_69: -5941388471532966868
+      tiny_village_tilemap_7: 4929383876936042425
+      tiny_village_tilemap_70: -6328173277068690840
+      tiny_village_tilemap_71: 2911485600945493442
+      tiny_village_tilemap_72: 7111139746326256398
+      tiny_village_tilemap_73: 2935029896351405745
+      tiny_village_tilemap_74: 2920909964541643647
+      tiny_village_tilemap_75: 1455589050756638966
+      tiny_village_tilemap_76: -7282653846412437384
+      tiny_village_tilemap_77: 1889935745283792362
+      tiny_village_tilemap_78: 7764933294187005662
+      tiny_village_tilemap_79: -8943376572550132950
+      tiny_village_tilemap_8: 2862636582630259914
+      tiny_village_tilemap_80: -2944896492153244052
+      tiny_village_tilemap_81: -5515102714343878498
+      tiny_village_tilemap_82: -8382037718529003309
+      tiny_village_tilemap_83: -210116619503960482
+      tiny_village_tilemap_84: 1793520690666491152
+      tiny_village_tilemap_85: -8870644450702699383
+      tiny_village_tilemap_86: -4227502748995936409
+      tiny_village_tilemap_87: 4506695285932198286
+      tiny_village_tilemap_88: -862207625119933015
+      tiny_village_tilemap_89: -2162532620913089925
+      tiny_village_tilemap_9: 7382587887268458027
+      tiny_village_tilemap_90: 4192490010378776561
+      tiny_village_tilemap_91: -348609567133981147
+      tiny_village_tilemap_92: 761526335629809140
+      tiny_village_tilemap_93: -6717382852474724325
+      tiny_village_tilemap_94: 3042852444017012619
+      tiny_village_tilemap_95: 802441725695490405
+      tiny_village_tilemap_96: -1966910268280437553
+      tiny_village_tilemap_97: 6877987597128380606
+      tiny_village_tilemap_98: -7210089676239076105
+      tiny_village_tilemap_99: 1646248062459045762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
