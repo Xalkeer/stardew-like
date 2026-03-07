@@ -4,59 +4,63 @@ using UnityEngine.Tilemaps;
 
 public class player_crops : MonoBehaviour
 {
-    public Sprite grownCropSprite;
-    public Tilemap targetTilemap;
-    public Vector3Int explicitCellPosition;
-    public bool useExplicitCell = true;
-    public Vector2 localFootOffset = new Vector2(0f, -0.5f);
+    public AllPlants selectedPlant;
+    public Tile testTile;
+    public bool isPlanting = false;
+    public PlantsManager plantsManager;
+    
 
-    private Tile runtimeTile;
 
     void Start()
     {
-        if (targetTilemap == null) Debug.LogWarning("Assigner une Tilemap dans l'inspecteur.");
-        if (grownCropSprite != null)
-        {
-            runtimeTile = ScriptableObject.CreateInstance<Tile>();
-            runtimeTile.sprite = grownCropSprite;
-        }
+        
+        
+        
     }
 
     void Update()
     {
-        GrowCrop();
+        if (Keyboard.current.fKey.wasPressedThisFrame)
+        {
+            isPlanting = !isPlanting; 
+        }
+        if (isPlanting && Keyboard.current.rKey.wasPressedThisFrame)
+        {
+            selectedPlant = AllPlants.patate;
+            Debug.Log("Planting " + selectedPlant);
+            GrownPlants(selectedPlant);
+        }
     }
-
-    public void GrowCrop()
+    
+    void GrownPlants(AllPlants plants)
     {
-        if (Keyboard.current == null || !Keyboard.current.eKey.wasPressedThisFrame) return;
-        if (targetTilemap == null || grownCropSprite == null) return;
-
-        if (useExplicitCell)
+        if (plants == AllPlants.patate)
         {
-            targetTilemap.SetTile(explicitCellPosition, GetOrCreateTile());
-        }
-        else
-        {
-            Vector3 worldPos = transform.TransformPoint(localFootOffset);
-            Vector3Int cell = targetTilemap.WorldToCell(worldPos);
-            targetTilemap.SetTile(cell, GetOrCreateTile());
-        }
+            if (plantsManager == null || Camera.main == null || Mouse.current == null) return;
 
-        // Forcer le rafraîchissement visuel si besoin
-        if (useExplicitCell)
-            targetTilemap.RefreshTile(explicitCellPosition);
-        else
-            targetTilemap.RefreshTile(targetTilemap.WorldToCell(transform.TransformPoint(localFootOffset)));
+            // Convertir position écran → monde
+            Vector2 mouseScreenPos = Mouse.current.position.ReadValue();
+            Vector3 mouseWorldPos = Camera.main.ScreenToWorldPoint(new Vector3(
+                mouseScreenPos.x,
+                mouseScreenPos.y,
+                Mathf.Abs(Camera.main.transform.position.z)
+            ));
+
+            // Trouver la cellule de la tilemap sous le curseur
+            Grid grid = FindAnyObjectByType<Grid>();
+            if (grid == null)
+            {
+                Debug.LogWarning("Aucune Grid trouvée dans la scène !");
+                return;
+            }
+
+            Vector3Int cellPos = grid.WorldToCell(mouseWorldPos);
+            // Convertir la cellule en position monde centrée
+            Vector3 cellCenterWorld = grid.GetCellCenterWorld(cellPos);
+
+            Debug.Log($"Curseur: {mouseScreenPos} → Monde: {mouseWorldPos} → Cellule: {cellPos} → Centre: {cellCenterWorld}");
+            plantsManager.CreatePlant(new Vector2(cellCenterWorld.x, cellCenterWorld.y));
+        }
     }
 
-    private Tile GetOrCreateTile()
-    {
-        if (runtimeTile == null)
-        {
-            runtimeTile = ScriptableObject.CreateInstance<Tile>();
-            runtimeTile.sprite = grownCropSprite;
-        }
-        return runtimeTile;
-    }
 }

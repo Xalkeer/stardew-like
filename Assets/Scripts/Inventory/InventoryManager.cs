@@ -1,25 +1,54 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class InventoryManager : MonoBehaviour
 {
     public int maxItems = 10;
+    
+    public Dictionary<AllItems, int> itemDictionary = new Dictionary<AllItems, int>();
 
-    [SerializeField]
-    private List<AllItems> items = new List<AllItems>();
-
-    public bool AddItem(AllItems item)
+    private void Start()
     {
-        if (items.Count < maxItems)
+        DictionaryInitiate();
+        DisplayInventory();
+    }
+    
+    public void DisplayInventory()
+    {
+        Debug.Log("Inventory:");
+        foreach (var item in itemDictionary)
         {
-            items.Add(item);
-            Debug.Log("Item added. Current item count: " + items.Count);
-            return true;
-        }
-        else
-        {
-            Debug.Log("Inventory full. Cannot add more items.");
-            return false;
+            Debug.Log("- " + item.Key + ": " + item.Value);
         }
     }
+
+    public void AddValue(int newValue, AllItems item)
+    {
+        itemDictionary[item] += newValue;
+    }
+    public void RemoveValue(int newValue, AllItems item)
+    {
+        if (itemDictionary[item] - newValue < 0)
+        {
+            Debug.Log("Not enough " + item + " to remove.");
+        }else
+        {
+            itemDictionary[item] -= newValue;
+        }
+    }
+
+
+
+    public void DictionaryInitiate()
+    {
+        itemDictionary.Add( AllItems.Wood,0);
+        itemDictionary.Add( AllItems.Stone,0);
+        itemDictionary.Add( AllItems.Iron,0);
+        itemDictionary.Add( AllItems.Gold,0);
+        itemDictionary.Add( AllItems.Diamond,0);
+    }
+    
+
+
 }

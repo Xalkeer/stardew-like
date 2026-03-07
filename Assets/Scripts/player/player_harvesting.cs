@@ -10,6 +10,7 @@ public class player_harvesting : MonoBehaviour
     {
         if (other.CompareTag("Ressources"))
             currentResource = other.gameObject;
+            Debug.Log("Harvested resource: " + currentResource.name);
     }
 
     void OnTriggerExit2D(Collider2D other)
@@ -26,7 +27,7 @@ public class player_harvesting : MonoBehaviour
         if (Keyboard.current != null && Keyboard.current.fKey.wasPressedThisFrame)
         {
             Debug.Log("Harvested resource: " + currentResource.name);
-            inventory.AddItem(AllItems.Wood); 
+            inventory.AddValue(10,AllItems.Wood); 
             Destroy(currentResource);
             currentResource = null;
         }

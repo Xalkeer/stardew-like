@@ -45,8 +45,17 @@ TagManager:
   - name: Ground
     uniqueID: 2983030797
     locked: 0
+  - name: Ground2
+    uniqueID: 87149573
+    locked: 0
   - name: Player
     uniqueID: 3115043825
+    locked: 0
+  - name: Batiment
+    uniqueID: 490291075
+    locked: 0
+  - name: Decoration
+    uniqueID: 3094818707
     locked: 0
   - name: Objects
     uniqueID: 147920265
